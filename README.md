@@ -2,7 +2,7 @@
 
 Link to the streamlit app: https://share.streamlit.io/valcilio/deploy-repos/challenge2/webapp.py
 
-![houses prices analytics](/home/valcilio/respos/intelie/portfolio/Slips in & out prediction (1).png)
+![houses prices analytics](https://i.ibb.co/HYSYGyj/Slips-in-out-prediction-1.png)
 
 ## **PREMISES:**
 
